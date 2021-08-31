@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AWIN TEST</string>
+    <string name="upload_file">Upload document</string>
+    <string name="firstname">Enter First name</string>
+    <string name="lastname">Enter Last name</string>
+    <string name="email">Enter Email</string>
+    <string name="jobTitle">Enter Job Title</string>
+    <string name="source">Enter Source</string>
+    <string name="upload">Upload</string>
+    <string name="internet_error">Check Internet Connectivity!</string>
+    <string name="success_message">Upload of CV is successful</string>
+    <string name="document_not_selected">Document not selected!</string>
+</resources>
